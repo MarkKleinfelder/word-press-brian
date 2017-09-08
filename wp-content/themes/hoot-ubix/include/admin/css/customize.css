@@ -1,0 +1,79 @@
+/**
+ * Hoot Customizer
+ * ========================================================
+ */
+
+
+/*** trt-customize-pro ***/
+
+#customize-controls .control-section-hootubix-premium { margin-bottom: 15px; }
+.control-section-hootubix-premium .accordion-section-title { padding-top: 15px; }
+#customize-controls .control-section-hootubix-premium .accordion-section-title:hover,
+#customize-controls .control-section-hootubix-premium .accordion-section-title:focus { background-color: #fff; }
+.control-section-hootubix-premium .accordion-section-title .button { margin-top: -4px; margin-left: 8px; text-transform: uppercase; -webkit-border-radius: 18px; border-radius: 18px; }
+.rtl .control-section-hootubix-premium .accordion-section-title .button { margin-left: 0; margin-right: 8px; }
+
+.hootubix-premium-conten { display: block; clear: both; margin: 12px 0 -12px; border-top: solid 1px #ddd; }
+.hootubix-premium-conten.hootubix-premium-active { margin: 0; border: none; }
+.hootubix-premium-conten a { display: inline-block; font-size: 12px; text-transform: uppercase; margin-right: 8px; }
+
+.hootubix-premium-content { display: block; clear: both; margin: 12px -10px -12px -14px; padding: 10px 0; text-align: center; background: #f1f1f1; border-top: solid 1px #ccc; border-bottom: solid 2px #ccc;
+-webkit-box-shadow: inset 0px 2px 5px 0px rgba(0,0,0,0.15);
+-moz-box-shadow: inset 0px 2px 5px 0px rgba(0,0,0,0.15);
+box-shadow: inset 0px 2px 5px 0px rgba(0,0,0,0.15);
+}
+.hootubix-premium-content.hootubix-premium-active { margin: -15px -10px -11px -14px; border: none; background: #fff; }
+.control-section-hootubix-premium .accordion-section-title .hootubix-premium-content a { display: inline-block; font-size: 12px; text-transform: none; margin: 6px 0; padding: 0 8px; text-decoration: none; }
+.control-section-hootubix-premium .accordion-section-title .hootubix-premium-content a.button { line-height: 24px; height: 26px; background: #fff; color: #23282d; }
+
+
+/*** Premium USe ***/
+
+.hootubix-display-premiumuse .wp-full-overlay-sidebar { width: 640px; }
+/*.hootubix-display-premiumuse .wp-full-overlay.expanded { margin-left: 600px; }*/
+.hootubix-display-premiumuse  #customize-preview { opacity: .4; }
+
+/** Premium Section **/
+
+#customize-control-premium-use {}
+#hootubix-psection { text-align: center; }
+.hootubix-psection {}
+.hootubix-psection > h1.centered { padding: 0; text-transform: uppercase; }
+.hootubix-psection > h1.centered span { display: block; font-size: 1.2em; }
+.hootubix-psection > h1.centered strong { font-weight: bold; color: #0073aa; }
+.hootubix-upsell-intro {}
+.hootubix-upsell-cta {}
+.pcontent-actions { border: solid 1px #ddd; padding: 15px 0; background: #f5f5f5; }
+.pcontent-actions .button { /*line-height: 36px;*/ height: 34px; padding: 3px 17px 4px; text-transform: uppercase; font-size: 13px; border-radius: 0; }
+.pcontent-actions .button-primary { text-shadow: 1px 1px 1px #000; margin-right: -2px; box-shadow: none !important; }
+.pcontent-actions .button-secondary { border-color: #999; box-shadow: inset 2px 0px 3px 0px rgba(0,0,0,0.25) !important; }
+.pcontent-top { box-shadow: 0 -1px 4px rgba(0,0,0,0.2); margin-bottom: 0; }
+.pcontent-bottom { box-shadow: 0 1px 4px rgba(0,0,0,0.2); margin-top: 0; }
+.hootubix-psection-content { box-shadow: 0 1px 4px rgba(0,0,0,0.2); background: #fff; padding: 0 10px; }
+
+.premium-info { border-bottom: solid 1px #ddd; padding: 30px 0; }
+.premium-info:last-child { border-bottom: none; }
+
+.premium-info {}
+.premium-info-img {}
+.premium-info-img img {}
+.premium-info-textblock {}
+.premium-info-heading h4 { font-size: 1.7em; line-height: 1em; margin: 1em 0 0.5em; font-weight: normal; text-transform: uppercase; }
+.premium-info-text {}
+.premium-info-text hr { border: transparent; margin: 8px 0; }
+
+@media only screen and (max-width: 640px) {	
+}
+
+
+/*** Module BG ***/
+
+.hybridextend-customize-control-groupstart.hybridextend-control-id-frontpage_sectionbg_area_a,
+.hybridextend-customize-control-groupstart.hybridextend-control-id-frontpage_sectionbg_area_b,
+.hybridextend-customize-control-groupstart.hybridextend-control-id-frontpage_sectionbg_area_c,
+.hybridextend-customize-control-groupstart.hybridextend-control-id-frontpage_sectionbg_area_d,
+.hybridextend-customize-control-groupstart.hybridextend-control-id-frontpage_sectionbg_area_e,
+.hybridextend-customize-control-groupstart.hybridextend-control-id-frontpage_sectionbg_content { display: none !important; }
+
+/* Fly heading */
+.hootubix-module-bg-title { font-weight: bold; display: block; text-align: center; }

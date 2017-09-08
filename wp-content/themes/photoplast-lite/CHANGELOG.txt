@@ -1,0 +1,28 @@
+### v1.0.5
+	- Has been updated README.md and README.txt.
+	- Has been added esc_url function on logourl variable.
+	- Has been added escaping function on subtitle variable.
+	- Has been added style.css file in enqueue function.
+	- Has been removed duplicated files.
+
+### v1.0.4
+	- Has been asigned the copyright to MachoThemes in README files.
+	- Has been removed the default logo image.
+	- Has been removed menu parameter from wp_nav_menu function.
+	- Has been changed the copyright text on footer and customizer.
+
+### v1.0.3
+	- Has been updated affilate link from customizer.
+
+### v1.0.2
+	- Has been removed Theme URI and Author URI from style.css.
+	- Has been added refferal link in customizer.
+
+### v1.0.1
+	- Has been added archive.php and search.php files.
+	- Has been removed the second style.css.
+	- Has been added CSS style on table and unorder/ order lists.
+	- Has been resized and minifed the images.
+
+### v1.0.0
+	- Initial release.
